@@ -4,3 +4,6 @@ This software is meant to be a utility for converting word2vec models binary tra
 to spark mllib word2vec models it is INSANE how much memory does spark take to save the 
 binary model although it works! 
 
+
+
+https://aprendizadodemaquina.com
